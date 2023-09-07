@@ -5,9 +5,7 @@
 
 * I named it **Basic Flappy Bird** because it's the game I wrote with just squares, rectangles, no sound, and everything is very simple.
 
-<p>
-    <video src="assets/basicflappybird.mp4" controls autoplay>
-</p>
+<image src="assets/basicflappybird.gif">
 
 ## How to play
     The gameplay is quite simple.
