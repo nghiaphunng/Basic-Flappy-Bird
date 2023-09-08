@@ -4,14 +4,8 @@
 * Have you heard of a game called Flappy Bird ? It's a game with a simple yet challenging gameplay. When I was young, I used to play it on my parents' phone, so I wanted to try playing it again by writing my own code.
 
 * I named it **Basic Flappy Bird** because it's the game I wrote with just squares, rectangles, no sound, and everything is very simple.
-
-<<<<<<< HEAD
+  
 <image src="assets/basicflappybird.gif">
-=======
-<p>
-    <video src="assets/basicflappybird.mp4" controls >
-</p>
->>>>>>> 3d06709bd8fc918e4269b3227aa22dc3355b162c
 
 ## How to play
     The gameplay is quite simple.
